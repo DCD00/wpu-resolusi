@@ -1,4 +1,5 @@
-Hallo pak, salam kenal nama saya drajat dari bandung.
+Assalamualaikum Wr. Wb.
+Mohon maaf pak, izin memperkenalkan diri nama saya drajat mahasiswa dari universitas pasundan bandung.
 
 resolusi saya :
 - membuat website dengan frameworks laravel/codeigniter
